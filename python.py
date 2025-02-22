@@ -8,4 +8,5 @@ def sumar(a,b,c=0,d=0):
         return a+b+d
     else:
         return a+b
+print ("Un saludo")
 print(sumar(1,2,3,4,5))
